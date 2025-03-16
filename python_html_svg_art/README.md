@@ -6,10 +6,10 @@ This project is a **Random SVG Art Generator** written in **Python**, which crea
 ## 🎨 Generated Art Pieces
 Below are examples of the generated SVG-based artwork:
 
-<p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" width="300">
-  <img src="YOUR_IMAGE_URL_HERE" width="300">
-  <img src="YOUR_IMAGE_URL_HERE" width="300">
+<p align="left">
+  <img src="https://raw.githubusercontent.com/trinityw3st/python-projects/main/python_html_svg_art/Image1.png" width="275">
+  <img src="https://raw.githubusercontent.com/trinityw3st/python-projects/main/python_html_svg_art/Image2.png" width="275">
+  <img src="https://raw.githubusercontent.com/trinityw3st/python-projects/main/python_html_svg_art/Image3.png" width="275">
 </p>
 
 ## 🛠️ Technologies Used
